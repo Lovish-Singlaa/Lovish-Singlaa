@@ -10,7 +10,6 @@
 ### 🧑‍💻 About Me
 
 - 🎓 2nd-year CSE undergrad at **IIIT Sonepat**
-- 🔭 Currently building: `Learnify` (AI-Powered EdTech Platform)
 - 💼 Past projects: `CareerBridge`, `Taxi Booking App`, `Face Recognition Attendance System`
 - 🌱 Learning more about **Deep Learning** and **Backend Optimization**
 - 📚 Solved 450+ DSA problems on LeetCode, GFG
