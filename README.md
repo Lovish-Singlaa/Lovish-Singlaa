@@ -9,10 +9,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 2nd-year CSE undergrad at **IIIT Sonepat**
-- 💼 Past projects: `CareerBridge`, `Taxi Booking App`, `Face Recognition Attendance System`
-- 🌱 Learning more about **Deep Learning** and **Backend Optimization**
-- 📚 Solved 450+ DSA problems on LeetCode, GFG
+- 🎓 3rd-year CSE undergrad at **IIIT Sonepat**
+- 💼 Past projects: `CareerBridge`, `AI Mock Interviewer`, `Face Recognition Attendance System`
+- 🌱 Learning more about **Machine Learning** and **Backend Optimization**
+- 📚 Solved 500+ DSA problems on LeetCode, GFG
 - 📫 Reach me at: [singlalovish26@gmail.com](mailto:singlalovish26@gmail.com)
 
 ---
