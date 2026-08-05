@@ -9,7 +9,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 3rd-year CSE undergrad at **IIIT Sonepat**
+- 🎓 Final year CSE undergrad at **IIIT Sonepat**
 - 💼 Past projects: `CareerBridge`, `AI Mock Interviewer`, `Face Recognition Attendance System`
 - 🌱 Learning more about **Machine Learning** and **Backend Optimization**
 - 📚 Solved 500+ DSA problems on LeetCode, GFG
